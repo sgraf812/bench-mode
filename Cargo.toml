@@ -1,0 +1,8 @@
+[package]
+name = "bench-mode"
+version = "0.1.0"
+authors = ["Sebastian Graf <sgraf1337@gmail.com>"]
+
+[dependencies]
+regex = "1"
+lazy_static = "1"
